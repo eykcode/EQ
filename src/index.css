@@ -1,0 +1,132 @@
+
+
+.appContainer{
+  align-items: center;
+  display: flex;
+  justify-content:center;
+  margin-top: 500px;
+
+
+  
+}
+.banner
+{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  width: 100%;
+
+  font-size: 25px;
+}
+.dialContainer
+{
+  
+  transform: rotate(270deg);
+
+  margin-left: -400px;
+  margin-right: -400px;
+}
+
+
+input[type="range"] 
+{
+  width:1000px;
+
+}
+
+.fileCall
+{
+
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  margin-top: 675px;
+
+
+}
+
+
+/*
+.dialContainer
+{
+  
+  background-color: rgb(255, 255, 255);
+  align-items: center;
+  display: flex;
+  justify-content:center;
+  
+
+  transform: rotate(270deg);
+}
+.dialContainer1
+{
+  
+  background-color: rgb(255, 255, 255);
+  align-items: center;
+  display: flex;
+  justify-content:center;
+
+  transform: rotate(270deg);
+}
+.dialContainer2
+{
+  
+  background-color: rgb(255, 255, 255);
+  align-items: center;
+  display: flex;
+  justify-content:center;
+
+  transform: rotate(270deg);
+}
+.dialContainer3
+{
+  
+  background-color: rgb(255, 255, 255);
+
+  display: flex;
+  justify-content:center;
+  align-items: center;
+
+  transform: rotate(270deg);
+}
+.dialContainer4
+{
+  align-items: center;
+  background-color: rgb(255, 255, 255);
+
+  display: flex;
+  justify-content:center;
+
+  transform: rotate(270deg);
+}
+.dialContainer5
+{
+  
+  background-color: rgb(255, 255, 255);
+  align-items: center;
+  display: flex;
+  justify-content:center;
+
+  transform: rotate(270deg);
+}
+.dialContainer6
+{
+  
+  background-color: rgb(255, 255, 255);
+  align-items: center;
+  display: flex;
+  justify-content:center;
+
+  transform: rotate(270deg);
+}
+.dialContainer7
+{
+  
+  background-color: rgb(255, 255, 255);
+  align-items: center;
+  display: flex;
+  justify-content:center;
+
+  transform: rotate(270deg);
+}
+*/
